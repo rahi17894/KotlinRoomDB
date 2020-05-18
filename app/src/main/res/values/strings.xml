@@ -1,0 +1,29 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">RamanbyteTest</string>
+    <string name="sr_no">Sr.No</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone">Phone</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="pin_code">Pincode</string>
+    <string name="user_details">User Details</string>
+    <string name="cancel" tools:ignore="ButtonCase">CANCEL</string>
+    <string name="save">SAVE</string>
+    <string name="first_name_form"><font color='red'>*</font> First Name</string>
+    <string name="last_name_form"><font color='red'>*</font> Last Name</string>
+    <string name="phone_form"><font color='red'>*</font> Phone</string>
+    <string name="city_form"><font color='red'>*</font> City</string>
+    <string name="state_form"><font color='red'>*</font> State</string>
+    <string name="pin_code_form"><font color='red'>*</font> Pincode</string>
+    <string name="enter_first_name">Please enter first name</string>
+    <string name="enter_last_name">Please enter last name</string>
+    <string name="enter_phone_number">Please enter phone number</string>
+    <string name="enter_city">Please enter city</string>
+    <string name="enter_state_name">Please enter state name</string>
+    <string name="enter_pin">Please enter PIN code</string>
+    <string name="no_data_found">No data Found</string>
+    <string name="table_new">Table New</string>
+
+
+</resources>
